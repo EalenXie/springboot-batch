@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: springboot-batch
+  datasource:
+    url: jdbc:mysql://localhost:3306/yourdatabase
+    username: yourname
+    password: yourpass
